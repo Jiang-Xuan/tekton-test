@@ -1,0 +1,28 @@
+{
+  "name": "tekton-test",
+  "version": "1.0.0",
+  "description": "用来测试 tekton CI/CD",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiang-Xuan/tekton-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiang-Xuan/tekton-test/issues"
+  },
+  "homepage": "https://github.com/Jiang-Xuan/tekton-test#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}

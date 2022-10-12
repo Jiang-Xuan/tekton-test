@@ -1,0 +1,15 @@
+printWidth: 100 # default 80, 考虑 80 对于目前的屏幕太小
+tabWidth: 2 # default
+useTabs: false # default
+semi: true # default true
+singleQuote: true # default false 单引号风格
+quoteProps: as-needed # default
+jsxSingleQuote: false # default
+trailingComma: all # 方便 review
+bracketSpacing: true # default
+jsxBracketSameLine: false # default
+arrowParens: avoid # default
+htmlWhitespaceSensitivity: css # default
+vueIndentScriptAndStyle: false # default
+endOfLine: lf # default
+embeddedLanguageFormatting: auto # 如果后续出现问题, 可以关掉
