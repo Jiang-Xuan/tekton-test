@@ -6,4 +6,5 @@ steps:
   - name: greeting
     image: node
     commands:
+      - npm install
       - npm run build
